@@ -1,4 +1,4 @@
-from setuptools import setup
+git from setuptools import setup
 
 setup(
     name='vpn',
