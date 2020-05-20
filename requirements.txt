@@ -1,0 +1,4 @@
+selenium
+Pillow
+pytesseract
+python-dotenv == 0.13.0
